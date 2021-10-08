@@ -1,0 +1,21 @@
+{
+  "name": "googlesheetsvideoplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "node src/videoToImages.js",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "Ryo Kuroyanagi",
+  "license": "MIT",
+  "dependencies": {
+    "@types/get-pixels": "^3.3.1",
+    "@types/node": "14",
+    "ffmpeg": "^0.0.4",
+    "googleapis": "^88.2.0",
+    "jimp": "^0.16.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.3"
+  }
+}
