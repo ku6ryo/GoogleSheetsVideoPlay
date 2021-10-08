@@ -1,6 +1,6 @@
 This is a project for fun. A test of playing video on Google Sheets by changing cell colors.
 
-![screenshot](./screenshot.png)
+[![screenshot](./screenshot.png)](./result.mp4)
 
 This project is using the famouse video BigBunny. Thank you for the video creators.
 https://peach.blender.org/about/
