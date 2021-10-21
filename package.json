@@ -10,7 +10,6 @@
   "author": "Ryo Kuroyanagi",
   "license": "MIT",
   "dependencies": {
-    "@types/get-pixels": "^3.3.1",
     "@types/node": "14",
     "ffmpeg": "^0.0.4",
     "googleapis": "^88.2.0",
